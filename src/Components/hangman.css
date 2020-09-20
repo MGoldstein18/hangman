@@ -1,0 +1,12 @@
+.hangmanContainer{
+    width: 80%;
+    margin-top: 50px;
+}
+
+.help{
+    margin-left: 50%;
+}
+
+#hello{
+    color: white;
+}
